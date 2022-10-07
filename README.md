@@ -6,10 +6,12 @@
 
 ## Scene Classification
 
-- [OPTIMAL31 Paper](https://ieeexplore.ieee.org/document/8454883)
-- [OPTIMAL31 dataset](https://onedrive.live.com/?authkey=%21AN26tA9MG5tcwg0&cid=5479ABC21673380B&id=5479ABC21673380B%2146678&parId=root&action=locate)
+
+- [OPTIMAL31 - Scene classification dataset (2018)](https://onedrive.live.com/?authkey=%21AN26tA9MG5tcwg0&cid=5479ABC21673380B&id=5479ABC21673380B%2146678&parId=root&action=locate)
+    - [OPTIMAL31 Paper](https://ieeexplore.ieee.org/document/8454883)
+
 - [SAT4 & SAT6 (2015)](http://csc.lsu.edu/~saikat/deepsat/)
-- [SAT4 & SAT6 paper](https://dl.acm.org/doi/10.1145/2820783.2820816)
+    - [SAT4 & SAT6 paper](https://dl.acm.org/doi/10.1145/2820783.2820816)
 
 ## Object Detection
 
