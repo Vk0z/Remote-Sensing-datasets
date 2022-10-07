@@ -1,7 +1,6 @@
-# List of different Remote Sensing datasets for use in Deep Learning applications
+# Collection of Remote Sensing datasets for use in Deep Learning applications
 
 ## Land Use 
-
 - [EuroSAT: Land Use and Land Cover Classification with Sentinel-2 (2018)](https://github.com/phelber/EuroSAT)
 
 - [BigEarthNet: A Large-Scale Sentinel Benchmark Archive - Multilabeled Sentinel 1 and Sentinel 2 datasets with CORINE classes (2019)](https://bigearth.net/)
@@ -16,7 +15,6 @@
     -[UC Merced Paper](https://dl.acm.org/doi/10.1145/1869790.1869829)
 
 ## Object Detection
-
 - [NWPU VHR-10 (ten-class geospatial object detection data set) & SSDD: SAR ship detection dataset](https://github.com/chaozhong2010/VHR-10_dataset_coco)
 
 - [Defence Science and Technology Laboratory (Dstl) Worldvie 3 10 classes (2016)](https://www.kaggle.com/competitions/dstl-satellite-imagery-feature-detection/data)
@@ -30,7 +28,6 @@
 - [MASATI dataset (v2) - MAritime SATellite Imagery dataset. Ship detection. (2019)](https://www.iuii.ua.es/datasets/masati/)
 
 ## Various
-
 - [Spacenet (Different datasets through AWS)](https://spacenet.ai/datasets/)
 
 ## Focused on flooding
