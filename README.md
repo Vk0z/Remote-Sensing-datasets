@@ -30,7 +30,7 @@
 ## Various
 - [Spacenet (Different datasets through AWS)](https://spacenet.ai/datasets/)
 
-## Focused on flooding
+## Flooding
 - [FloodNet: UAV pre- and post-flooding imagery (2021)](https://github.com/BinaLab/FloodNet-Supervised_v1.0)
     - [FloodNet paper](https://ieeexplore.ieee.org/document/9460988)
 
